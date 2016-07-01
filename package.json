@@ -1,0 +1,28 @@
+{
+  "name": "astromech",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tegud/astromech.js.git"
+  },
+  "author": "Steve Elliott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tegud/astromech.js/issues"
+  },
+  "homepage": "https://github.com/tegud/astromech.js#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "eslint": "^2.9.0",
+    "grunt-eslint": "^18.1.0",
+    "grunt-mocha-cli": "^2.1.0",
+    "load-grunt-tasks": "^3.5.0",
+    "mocha": "^2.4.5",
+    "should": "^8.3.1"
+  }
+}
