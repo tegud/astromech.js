@@ -14,7 +14,7 @@ A nodejs bot that understands you.
 `grunt`
 
 ## Why not Hubot?
-Hubot's great, but it does have some limitations.  I found given those limitations we were actually writing out own integrations more than using community driven ones.  With this in mind, I wanted to design a bot from the ground up that could support natural language processing and more provide a more extensive toolkit for plugin developers.
+Hubot's great, but it does have some limitations.  I found given those limitations we were actually writing our own integrations more than using community driven ones.  With this in mind, I wanted to design a bot from the ground up that could support natural language processing and more provide a more extensive toolkit for plugin developers.
 
 ## Official integrations
-Official support is intended for integrating with Slack, Hipchat, IRC, etc.  
+Official plugins are intended for integrating with Slack, Hipchat, IRC, etc.  
